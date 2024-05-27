@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Monojit Tewari</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJs,NextJs**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **Backend Microservices**
+- 👯 I’m looking to collaborate on **Microservices Applications**
 
-- 🤝 I’m looking for help with **backend and cloud native projects**
+- 🤝 I’m looking for help with **backend and cloud heavy projects**
 
-- 💬 Ask me about **NodeJs**
+- 💬 Ask me about **NodeJs and java**
 
 - 📫 How to reach me **tewarimonojit@gmail.com**
 
